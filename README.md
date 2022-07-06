@@ -4,4 +4,4 @@ This is the first file
 
 ##HeyPolish
 
-This is second Polish
+This is second Polish, adding additional files
